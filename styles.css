@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+main{
+    border: 1px solid black;
+    padding: 20px;
+    margin:30px;
+}
+header h1{
+    font-size: 40px;
+}
+img{
+    margin-top: 20px;
+    width: 270px;
+}
+.bottom-section{
+    border: 1px solid black;
+    padding: 20px 0;
+}
+blockquote{
+    padding-left: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
